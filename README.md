@@ -1,5 +1,5 @@
 <h1>
-  [GameJolt API ] - GameMaker Studio 2
+  [ GameJolt API ] - GameMaker Studio 2
 </h1>
 
 <div>
